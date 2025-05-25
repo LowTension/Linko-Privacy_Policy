@@ -1,6 +1,6 @@
 # Política de Privacidad de Linko 🔒
 
-**Última actualización:** [Fecha DD/MM/AAAA]
+**Última actualización:** [Fecha 25/05/2025]
 
 ## 📌 Tu Privacidad es Importante  
 Esta aplicación **NO recopila, almacena ni comparte ningún dato personal o de uso**. Todo permanece en tu dispositivo.
@@ -42,14 +42,6 @@ Esta aplicación **NO recopila, almacena ni comparte ningún dato personal o de 
 - ✅ **Control total** sobre tus datos
 - ⬇️ **Exportar** en cualquier momento (formato JSON)
 - 🗑️ **Borrar todo** desinstalando la app
-
-## 🔄 Cambios en esta Política
-Actualizaciones se publicarán en:  
-[https://github.com/tuusuario/turepo/PRIVACY.md](https://github.com/tuusuario/turepo/PRIVACY.md)
-
-## 📧 Contacto
-¿Preguntas? Contáctanos en:  
-✉️ [tuemail@dominio.com](mailto:zonarmrmx@gmail.com)  
 
 <div align="center">
   <sub>♻️ Esta política aplica para todas las versiones de la app</sub>
