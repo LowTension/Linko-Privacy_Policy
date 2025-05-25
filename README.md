@@ -1,48 +1,48 @@
-# Política de Privacidad de Linko 🔒
+# Privacy Policy for Linko 🔒
 
-**Última actualización:** [Fecha 25/05/2025]
+**Last Updated:** May 25, 2025
 
-## 📌 Tu Privacidad es Importante  
-Esta aplicación **NO recopila, almacena ni comparte ningún dato personal o de uso**. Todo permanece en tu dispositivo.
+## 📌 Your Privacy Matters  
+This application **DOES NOT collect, store, or share any personal or usage data**. Everything remains on your device.
 
-## 🚫 Datos que NO Recopilamos
-- **Información personal**  
-  (nombres, emails, ubicación, etc.)
-- **Actividad en la app**  
-  (enlaces visitados, tiempo de uso, etc.)
-- **Datos del dispositivo**  
-  (modelo, SO, identificadores únicos)
+## 🚫 Data We DO NOT Collect
+- **Personal Information**  
+  (names, emails, location, etc.)
+- **App Activity**  
+  (visited links, usage time, etc.)
+- **Device Data**  
+  (model, OS, unique identifiers)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/0%20Trackers-100%25%20Privado-brightgreen" alt="Cero Trackers">
+  <img src="https://img.shields.io/badge/0%20Trackers-100%25%20Private-brightgreen" alt="Zero Trackers">
 </div>
 
-## 💾 Tus Datos Son 100% Tuyos
-| Característica | Detalle |
+## 💾 Your Data Belongs 100% to You
+| Feature | Details |
 |----------------|---------|
-| **Almacenamiento** | SQLite local (Room Database) |
-| **Respaldo** | Opcional - Genera un archivo JSON en tu dispositivo |
-| **Cifrado** | AES-256 para exports con contraseña (opcional) |
+| **Storage** | Local SQLite (Room Database) |
+| **Backup** | Optional - Generates a JSON file on your device |
+| **Encryption** | AES-256 for password-protected exports (optional) |
 
-## 🛠️ Bibliotecas de Terceros
-| Biblioteca | Propósito | Datos Accedidos |
+## 🛠️ Third-Party Libraries
+| Library | Purpose | Data Accessed |
 |------------|-----------|------------------|
-| `Glide` | Cargar favicons | URLs de tus enlaces |
-| `OkHttp` + `JSoup` | Obtener títulos de páginas | Solo al agregar enlaces |
-| `Gson` | Exportar/importar datos | Tus enlaces y carpetas |
+| `Glide` | Loading favicons | Your link URLs |
+| `OkHttp` + `JSoup` | Fetching page titles | Only when adding links |
+| `Gson` | Export/import data | Your links and folders |
 
-**Ninguna recopila información personal.**
+**None collect personal information.**
 
-## 🔐 Seguridad
-- 🔒 Base de datos encriptada por Android
-- 🚫 Sin permisos innecesarios  
-  (no requiere cámara, contactos, etc.)
+## 🔐 Security
+- 🔒 Encrypted database by Android
+- 🚫 No unnecessary permissions  
+  (Doesn't require camera, contacts, etc.)
 
-## 📜 Tus Derechos
-- ✅ **Control total** sobre tus datos
-- ⬇️ **Exportar** en cualquier momento (formato JSON)
-- 🗑️ **Borrar todo** desinstalando la app
+## 📜 Your Rights
+- ✅ **Full control** over your data
+- ⬇️ **Export** anytime (JSON format)
+- 🗑️ **Delete everything** by uninstalling the app
 
 <div align="center">
-  <sub>♻️ Esta política aplica para todas las versiones de la app</sub>
+  <sub>♻️ This policy applies to all app versions</sub>
 </div>
