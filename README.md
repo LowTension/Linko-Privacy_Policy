@@ -20,7 +20,7 @@ This application **DOES NOT collect, store, or share any personal or usage data*
 ## 💾 Your Data Belongs 100% to You
 | Feature        | Details                                      |
 |----------------|----------------------------------------------|
-| **Storage**    | Local SQLite (Room Database)                |
+| **Storage**    | Local SQLite (Room Database)                 |
 | **Backup**     | Optional - Generates a JSON file on your device |
 | **Encryption** | AES-256 for password-protected exports (optional) |
 
