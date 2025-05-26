@@ -18,18 +18,18 @@ This application **DOES NOT collect, store, or share any personal or usage data*
 </div>
 
 ## 💾 Your Data Belongs 100% to You
-| Feature | Details |
-|----------------|---------|
-| **Storage** | Local SQLite (Room Database) |
-| **Backup** | Optional - Generates a JSON file on your device |
+| Feature        | Details                                      |
+|----------------|----------------------------------------------|
+| **Storage**    | Local SQLite (Room Database)                |
+| **Backup**     | Optional - Generates a JSON file on your device |
 | **Encryption** | AES-256 for password-protected exports (optional) |
 
 ## 🛠️ Third-Party Libraries
-| Library | Purpose | Data Accessed |
-|------------|-----------|------------------|
-| `Glide` | Loading favicons | Your link URLs |
-| `OkHttp` + `JSoup` | Fetching page titles | Only when adding links |
-| `Gson` | Export/import data | Your links and folders |
+| Library          | Purpose                      | Data Accessed               |
+|------------------|------------------------------|-----------------------------|
+| `Glide`          | Loading favicons             | Your link URLs              |
+| `OkHttp` + `JSoup` | Fetching page titles        | Only when adding links      |
+| `Gson`           | Export/import data           | Your links and folders      |
 
 **None collect personal information.**
 
