@@ -2,46 +2,65 @@
 
 **Last Updated:** May 25, 2025
 
-## 📌 Your Privacy Matters  
-This application **DOES NOT collect, store, or share any personal or usage data**. Everything remains on your device.
+---
+
+## 📌 Your Privacy Matters
+
+**Linko does NOT collect, store, or share any personal or usage data.**  
+Everything stays on your device—100% private.
+
+---
 
 ## 🚫 Data We DO NOT Collect
+
 - **Personal Information**  
-  (names, emails, location, etc.)
+  (name, email, location, etc.)
 - **App Activity**  
   (visited links, usage time, etc.)
 - **Device Data**  
-  (model, OS, unique identifiers)
+  (model, OS version, unique identifiers)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/0%20Trackers-100%25%20Private-brightgreen" alt="Zero Trackers">
-</div>
+[![Zero Trackers](https://img.shields.io/badge/0%20Trackers-100%25%20Private-brightgreen)](https://github.com/)
 
-## 💾 Your Data Belongs 100% to You
-| Feature        | Details                                      |
-|----------------|----------------------------------------------|
-| **Storage**    | Local SQLite (Room Database)                 |
-| **Backup**     | Optional - Generates a JSON file on your device |
-| **Encryption** | AES-256 for password-protected exports (optional) |
+---
 
-## 🛠️ Third-Party Libraries
-| Library          | Purpose                      | Data Accessed               |
-|------------------|------------------------------|-----------------------------|
-| `Glide`          | Loading favicons             | Your link URLs              |
-| `OkHttp` + `JSoup` | Fetching page titles        | Only when adding links      |
-| `Gson`           | Export/import data           | Your links and folders      |
+## 💾 Your Data = Your Control
 
-**None collect personal information.**
+| Feature        | Details                                           |
+|----------------|---------------------------------------------------|
+| **Storage**    | Local SQLite (Room database)                      |
+| **Backup**     | Optional — generates a JSON file on your device   |
+| **Encryption** | AES-256 for password‑protected exports (optional) |
+
+---
+
+## 🛠️ Third‑Party Libraries
+
+| Library             | Purpose                    | Data Accessed                  |
+|---------------------|----------------------------|--------------------------------|
+| `Glide`             | Loads favicons             | Your link URLs                 |
+| `OkHttp` + `JSoup`  | Fetches page titles        | Only when adding new links     |
+| `Gson`               | Data import/export         | Your links and folder structure|
+
+> **None of these libraries collect personal information.**
+
+---
 
 ## 🔐 Security
-- 🔒 Encrypted database by Android
+
+- 🔒 Android‑encrypted local database  
 - 🚫 No unnecessary permissions  
-  (Doesn't require camera, contacts, etc.)
+  (does not request camera, contacts, etc.)
+
+---
 
 ## 📜 Your Rights
-- ✅ **Full control** over your data
-- ⬇️ **Export** anytime (JSON format)
+
+- ✅ **Full control** over your data  
+- ⬇️ **Export anytime** (JSON format)  
 - 🗑️ **Delete everything** by uninstalling the app
+
+---
 
 <div align="center">
   <sub>♻️ This policy applies to all app versions</sub>
