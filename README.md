@@ -78,5 +78,6 @@ A: Payments go through Google Play - we never see your payment details.
 ---
 
 <div align="center">
-  <sub>♻️ This policy applies to all app versions</sub>
+<sub>© 2025 Ruby Faick</sub><br>
+<sub>These terms apply to all Linko versions ♻️</sub>
 </div>
