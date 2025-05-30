@@ -30,7 +30,7 @@ Everything stays on your device—100% private.
 |----------------|---------------------------------------------------|
 | **Storage**    | Local SQLite (Room database)                      |
 | **Backup**     | Optional — generates a JSON file on your device   |
-| **Encryption** | AES-256 for password‑protected exports (optional) |
+| **Encryption** | AES-256 for password‑protected exports (Premium)  |
 
 ---
 
@@ -48,9 +48,11 @@ Everything stays on your device—100% private.
 
 ## 🔐 Security
 
-- 🔒 Android‑encrypted local database  
+- 🔒 Android‑encrypted local database
+- 🔐 AES-256 for password-protected backups (Premium)  
 - 🚫 No unnecessary permissions  
   (does not request camera, contacts, etc.)
+- 🔄 Auto-cookie deletion option (WebView settings)
 
 ---
 
