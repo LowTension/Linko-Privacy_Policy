@@ -1,6 +1,6 @@
 # Privacy Policy for Linko 🔒
 
-**Last Updated:** May 25, 2025
+**Last Updated:** May 29, 2025
 
 ---
 
