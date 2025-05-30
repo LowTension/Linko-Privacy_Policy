@@ -64,6 +64,19 @@ Everything stays on your device—100% private.
 
 ---
 
+## ❓ Frequently Asked Questions
+
+**Q: Does Linko backup my data to the cloud?**  
+A: Never. All data stays on your device unless you manually export it.
+
+**Q: Can I use Linko completely offline?**  
+A: Yes! Linko works 100% offline after installation.
+
+**Q: How are Premium payments handled?**  
+A: Payments go through Google Play - we never see your payment details.
+
+---
+
 <div align="center">
   <sub>♻️ This policy applies to all app versions</sub>
 </div>
